@@ -11,6 +11,6 @@ Technologies used:-
 
 **Demo Video**
 
-https://user-images.githubusercontent.com/68941939/190411587-d4233807-c664-4e89-9930-7d574d142962.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/68941939/190412500-5a549c13-cbd8-4f7c-8df0-e0aca295e4e8.gif)
 
 
