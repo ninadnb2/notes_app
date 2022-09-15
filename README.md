@@ -11,6 +11,13 @@ Technologies used:-
 
 **Demo Video**
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/68941939/190412500-5a549c13-cbd8-4f7c-8df0-e0aca295e4e8.gif)
+
+
+
+https://user-images.githubusercontent.com/68941939/190413219-fc15af05-34a8-4258-9c5c-394ad040f4bf.mp4
+
+
+
+
 
 
