@@ -1,4 +1,4 @@
-**Notes App**
+# Notes App
 
 This is simple notes app where user can manage notes. This notes app allow user to perform CRUD operations i.e., Create,Read,Update and delete.
 
